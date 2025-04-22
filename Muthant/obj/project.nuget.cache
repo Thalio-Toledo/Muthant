@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hEfSPVDmF8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thalio\\Documents\\Projects\\Muthant\\Muthant\\Muthant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thalio\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\Thalio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

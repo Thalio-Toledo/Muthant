@@ -1,0 +1,12 @@
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\bin\Release\net8.0\Muthant.deps.json
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\bin\Release\net8.0\Muthant.dll
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\bin\Release\net8.0\Muthant.pdb
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.csproj.AssemblyReference.cache
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.AssemblyInfoInputs.cache
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.AssemblyInfo.cs
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.csproj.CoreCompileInputs.cache
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.dll
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\refint\Muthant.dll
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\Muthant.pdb
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Release\net8.0\ref\Muthant.dll

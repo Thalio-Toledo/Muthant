@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muthant", "Muthant\Muthant.csproj", "{B7E647F2-D405-4657-A5F9-62063BB0CFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuthantTests", "MuthantTests\MuthantTests.csproj", "{BA961307-DDB3-42F2-B7B6-8D47DF6BC66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E647F2-D405-4657-A5F9-62063BB0CFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E647F2-D405-4657-A5F9-62063BB0CFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E647F2-D405-4657-A5F9-62063BB0CFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E647F2-D405-4657-A5F9-62063BB0CFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA961307-DDB3-42F2-B7B6-8D47DF6BC66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA961307-DDB3-42F2-B7B6-8D47DF6BC66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA961307-DDB3-42F2-B7B6-8D47DF6BC66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA961307-DDB3-42F2-B7B6-8D47DF6BC66F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B498B59-B905-4422-BEB0-C65190077189}
+	EndGlobalSection
+EndGlobal
