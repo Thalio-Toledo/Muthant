@@ -33,7 +33,7 @@ Use the muthant is very simple, inject the MuthantMapper in you service.
  {
      private readonly MuthantMapper _muthantMapper;
 
-     public WitnessService(MuthantMapper muthantMapper)
+     public Service(MuthantMapper muthantMapper)
      {
          _muthantMapper = muthantMapper;
      }
