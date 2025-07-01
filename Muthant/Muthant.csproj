@@ -5,11 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageId>muthant-v1</PackageId>
+    <PackageId>Muthant-Mapper</PackageId>
     <Title>Muthant</Title>
     <Company></Company>
     <Authors>Thalio-Toledo</Authors>
     <Description>Muthant is a object-object mapper.</Description>
+	  <Version>1.1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>

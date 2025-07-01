@@ -16,10 +16,9 @@ namespace MystiqueMapperTests.Utils
                 var valueDestiny = prop.GetValue(destiny);
 
                 var originProp = origin.GetType().GetProperty(prop.Name);
-                var valueOriginProp = originProp.GetValue(origin);
-
-                if (!object.Equals(valueDestiny, valueOriginProp))
-                    return false;
+                if(originProp is not null) 
+                    if (!object.Equals(valueDestiny, originProp.GetValue(origin)))
+                        return false;
             }
 
             return true;

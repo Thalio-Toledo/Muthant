@@ -1757,17 +1757,17 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "muthant-v1/1.0.0": {
+      "Muthant-Mapper/1.1.0.4": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.4"
         },
         "compile": {
-          "bin/placeholder/muthant-v1.dll": {}
+          "bin/placeholder/Muthant-Mapper.dll": {}
         },
         "runtime": {
-          "bin/placeholder/muthant-v1.dll": {}
+          "bin/placeholder/Muthant-Mapper.dll": {}
         }
       }
     }
@@ -5644,7 +5644,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "muthant-v1/1.0.0": {
+    "Muthant-Mapper/1.1.0.4": {
       "type": "project",
       "path": "../Muthant/Muthant.csproj",
       "msbuildProject": "../Muthant/Muthant.csproj"
@@ -5654,14 +5654,15 @@
     "net8.0": [
       "FluentAssertions >= 8.2.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "Muthant-Mapper >= 1.1.0.4",
       "coverlet.collector >= 6.0.0",
-      "muthant-v1 >= 1.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thalio\\.nuget\\packages\\": {}
+    "C:\\Users\\Thalio\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5672,8 +5673,12 @@
       "packagesPath": "C:\\Users\\Thalio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Thalio\\Documents\\Projects\\Muthant\\MuthantTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Thalio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5681,7 +5686,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5703,7 +5707,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5746,7 +5751,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

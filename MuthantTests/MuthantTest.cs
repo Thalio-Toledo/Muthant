@@ -19,11 +19,11 @@ namespace MystiqueMapperTests
                 Id = 1,
                 Name = "Test",
                 Active = true,
-                Addresses = new List<Address>
-                {
-                    new Address { Id = 1, Name ="Street of dumbs 1" },
-                    new Address { Id = 2, Name = "Street of dumbs 2" }
-                }
+                //Addresses = new List<Address>
+                //{
+                //    new Address { Id = 1, Name ="Street of dumbs 1" },
+                //    new Address { Id = 2, Name = "Street of dumbs 2" }
+                //}
             };
 
             // Act 

@@ -3,6 +3,7 @@ using Muthant;
 using Muthant.Profile_configuration;
 using System;
 using System.Collections.Generic;
+using System.Formats.Tar;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,6 +21,7 @@ namespace mystiqueMapper.Extensions
 
         public static IServiceCollection AddMuthant(this IServiceCollection services) 
         {
+            services.AddSingleton<Profile>();
             services.AddTransient<MuthantMapper>();
             return services;
         }

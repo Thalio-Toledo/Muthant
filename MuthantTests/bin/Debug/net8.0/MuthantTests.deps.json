@@ -10,10 +10,11 @@
         "dependencies": {
           "FluentAssertions": "8.2.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
-          "Muthant": "1.0.0",
+          "Muthant-Mapper": "1.1.0.2",
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.3",
-          "xunit.runner.visualstudio": "2.5.3"
+          "xunit.runner.visualstudio": "2.5.3",
+          "Muthant": "1.1.0.2"
         },
         "runtime": {
           "MuthantTests.dll": {}
@@ -1049,14 +1050,22 @@
         }
       },
       "xunit.runner.visualstudio/2.5.3": {},
-      "Muthant/1.0.0": {
+      "Muthant-Mapper/1.1.0.2": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.4"
         },
         "runtime": {
           "Muthant.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.1.0.2",
+            "fileVersion": "1.1.0.2"
+          }
+        }
+      },
+      "Muthant/1.1.0.2": {
+        "runtime": {
+          "Muthant.dll": {
+            "assemblyVersion": "1.1.0.2",
+            "fileVersion": "1.1.0.2"
           }
         }
       }
@@ -1712,8 +1721,13 @@
       "path": "xunit.runner.visualstudio/2.5.3",
       "hashPath": "xunit.runner.visualstudio.2.5.3.nupkg.sha512"
     },
-    "Muthant/1.0.0": {
+    "Muthant-Mapper/1.1.0.2": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Muthant/1.1.0.2": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

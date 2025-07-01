@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuthantTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26273b51fe84b6626d1112cf5dab9f9f6f6e0f3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuthantTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuthantTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

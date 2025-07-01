@@ -10,3 +10,4 @@ C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Debug\net8.0\Muthant.dll
 C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Debug\net8.0\refint\Muthant.dll
 C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Debug\net8.0\Muthant.pdb
 C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Debug\net8.0\ref\Muthant.dll
+C:\Users\Thalio\Documents\Projects\Muthant\Muthant\obj\Debug\net8.0\Muthant.sourcelink.json

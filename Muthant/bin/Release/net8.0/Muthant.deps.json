@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Muthant/1.0.0": {
+      "Muthant/1.1.0.4": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.4"
         },
@@ -36,7 +36,7 @@
     }
   },
   "libraries": {
-    "Muthant/1.0.0": {
+    "Muthant/1.1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

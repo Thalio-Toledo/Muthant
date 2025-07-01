@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>muthant-v1</id>
+    <version>1.1.0.1</version>
+    <title>Muthant</title>
+    <authors>Thalio-Toledo</authors>
+    <description>Muthant is a object-object mapper.</description>
+    <repository type="git" commit="26273b51fe84b6626d1112cf5dab9f9f6f6e0f3c" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Thalio\Documents\Projects\Muthant\Muthant\bin\Release\net8.0\Muthant.dll" target="lib\net8.0\Muthant.dll" />
+  </files>
+</package>

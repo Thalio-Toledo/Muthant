@@ -62,9 +62,9 @@ public class MuthantMapper
                 }
 
                 var originProp = origin.GetType().GetProperty(propertyName);
-                var valueOriginProp = originProp.GetValue(origin, null);
-
-                destinyProp.SetValue(destiny, valueOriginProp);
+                
+                if (originProp is not null)
+                    destinyProp.SetValue(destiny, originProp.GetValue(origin, null));
             }
         }
 
@@ -78,9 +78,8 @@ public class MuthantMapper
         foreach (var destinyProp in destiny.GetProperties())
         {
             var originProp = origin.GetType().GetProperty(destinyProp.Name);
-            var valueOriginProp = originProp.GetValue(origin, null);
-
-            destinyProp.SetValue(destinyInstance, valueOriginProp);
+            if (originProp is not null)
+                destinyProp.SetValue(destinyInstance, originProp.GetValue(origin, null));
         }
 
         return destinyInstance;

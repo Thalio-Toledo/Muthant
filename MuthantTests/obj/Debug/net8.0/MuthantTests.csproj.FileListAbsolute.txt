@@ -103,3 +103,4 @@ C:\Users\Thalio\Documents\Projects\Muthant\MuthantTests\obj\Debug\net8.0\refint\
 C:\Users\Thalio\Documents\Projects\Muthant\MuthantTests\obj\Debug\net8.0\MuthantTests.pdb
 C:\Users\Thalio\Documents\Projects\Muthant\MuthantTests\obj\Debug\net8.0\MuthantTests.genruntimeconfig.cache
 C:\Users\Thalio\Documents\Projects\Muthant\MuthantTests\obj\Debug\net8.0\ref\MuthantTests.dll
+C:\Users\Thalio\Documents\Projects\Muthant\MuthantTests\obj\Debug\net8.0\MuthantTests.sourcelink.json
